@@ -16,3 +16,7 @@ The dataset contains customer demographics, travel preferences, and behavior pat
 - SQL - Structured Query Language for querying of data
 - Github- For Portfolio building
 
+### Data Visualization
+
+
+
