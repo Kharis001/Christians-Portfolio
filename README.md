@@ -18,5 +18,6 @@ The dataset contains customer demographics, travel preferences, and behavior pat
 
 ### Data Visualization
 
+![10alytics Travel Dashboard](https://github.com/user-attachments/assets/e85cfea5-5190-4284-9a1b-ff5569d085b3)
 
 
